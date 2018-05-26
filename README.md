@@ -3,12 +3,12 @@
 ## Napisati klasu avion
 
 Avion ima mogućnost da:
-	- otvori vrata i zatvori vrata
-	- putnici uđi i izađu iz aviona
-	- utovari i istovari kofere
-	- natoči gorivo
-	- poleti i sleti
-	- putnici gledaju film
+- otvori vrata i zatvori vrata
+- putnici uđi i izađu iz aviona
+- utovari i istovari kofere
+- natoči gorivo
+- poleti i sleti
+- putnici gledaju film
 
 
 
